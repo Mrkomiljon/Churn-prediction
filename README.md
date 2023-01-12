@@ -22,7 +22,7 @@
 ![image](https://user-images.githubusercontent.com/92161283/212069665-ce0f3160-6de1-46a3-9fb0-2005d75f4669.png)
 > Comparison with other works
 ![image](https://user-images.githubusercontent.com/92161283/212069794-2ac8119b-38ad-420d-a434-781b3949c60f.png)
-> ** Further analysis **
+> **Further analysis**
 ![image](https://user-images.githubusercontent.com/92161283/212069882-a6541680-2932-4bbc-9f83-544319db7f6b.png)
 
 ![image](https://user-images.githubusercontent.com/92161283/212069939-72ab62ee-0b72-4012-b4d1-1eb28211ede8.png)
