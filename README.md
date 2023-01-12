@@ -6,3 +6,4 @@
 - Ensemle Learning is technique that craete multiple models and then combine them to produce improved results.
 * Ensemble Learning usually produces more accurate solutions than a single model.
 + Ensemble learning methods are applied to regression as well as classifacation.
+![image](https://user-images.githubusercontent.com/92161283/212068807-121c0a3c-a367-43c1-86f5-6508a4d48948.png)
