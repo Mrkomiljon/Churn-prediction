@@ -16,7 +16,7 @@
    ![image](https://user-images.githubusercontent.com/92161283/212069149-a5ac3a1d-d5e6-4db7-8f43-30843f904c60.png)
    
 ## GENERAL OVERVIEW OF THE MODEL
-     ![image](https://user-images.githubusercontent.com/92161283/212069492-40021e56-2cd6-4ee0-8e51-4cdac06e5b7e.png)
+![image](https://user-images.githubusercontent.com/92161283/212069492-40021e56-2cd6-4ee0-8e51-4cdac06e5b7e.png)
      
 ## Proposed an efficient stacking ensemble method for customer churn prediction 
 ![image](https://user-images.githubusercontent.com/92161283/212069665-ce0f3160-6de1-46a3-9fb0-2005d75f4669.png)
